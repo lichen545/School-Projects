@@ -1,0 +1,1 @@
+Hi, this is the readme for all projects! Instructions for all the programs are already built in, so just compile the program you want to run with gcc (e.g. "gcc search.c"), run, and enjoy! Side note: for search.c, you'll want to instruct the compiler to link the math library using "gcc search.c -lm".
